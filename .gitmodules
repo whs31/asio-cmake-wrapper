@@ -1,0 +1,3 @@
+[submodule "libs/asio"]
+	path = libs/asio
+	url = ../asio-vcpkg.git
